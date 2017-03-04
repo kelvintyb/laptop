@@ -138,6 +138,10 @@ brew "gh"
 brew "imagemagick"
 
 # Programming language prerequisites and package managers
+# Testing
+brew "qt5"
+
+# Programming languages
 brew "libyaml" # should come after openssl
 brew "coreutils"
 brew "yarn"
